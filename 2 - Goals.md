@@ -1,0 +1,14 @@
+# Goals
+ - [ ] Watch every cutscene possible after the Base Save
+ - [ ] Get every fail state
+ - [ ] Max criminal rating
+ - [ ] Visit every interior possible
+ - [ ] Fly under every bridge
+ - [ ] Get every gun/armor pick up
+ - [ ] Visit every easter egg
+ - [ ] Drive every vehicle
+ - [ ] Buy all the properties
+ - [ ] Buy all the clothes
+ - [ ] Buy all the tattoos
+ - [ ] Max girlfriend relation
+ - [ ] Gather all the unique vehicles
